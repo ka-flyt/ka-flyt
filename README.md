@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ka-flyt
 - 👀 I’m interested in ERP, especially Odoo
 - 🌱 I’m currently working in a Norwegian ERP consultant company, working with change management and Odoo implementation
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on Discord as kal42
 
 <!---
